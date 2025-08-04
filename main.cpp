@@ -187,7 +187,7 @@ std::string getInterpretation(int percent, const std::string& testTitle) {
 int main() {
     sf::RenderWindow window(sf::VideoMode(900, 700), "Psychological Test App");
     sf::Font font;
-    if (!font.loadFromFile("arial.ttf")) {
+    if (!font.loadFromFile("fonts/arial.ttf")) {
         std::cerr << "Font load error" << std::endl;
         return -1;
     }

@@ -1,0 +1,66 @@
+How do you react to clothing tags?
+They feel itchy or irritating
+Sometimes annoying
+I cut them off just in case
+I do not notice them
+images/image2.1.png
+How do you feel about wearing tight clothes?
+Uncomfortable
+Depends on the material
+Does not bother me
+I like it
+images/image2.2.png
+How do you respond to light touch on your skin?
+It makes me flinch
+I do not feel much
+I find it ticklish
+I enjoy it
+images/image2.3.png
+What texture do you dislike the most?
+Rough fabrics
+Wet or slimy textures
+Smooth silk
+None bother me
+images/image2.4.png
+How do you feel walking barefoot on different surfaces?
+Sensitive to textures
+Neutral
+Totally fine
+I enjoy the sensation
+images/image2.5.png
+Do you enjoy massages?
+Not at all
+Sometimes
+Depends on the pressure
+Yes, very much
+images/image2.6.png
+How do you feel when someone unexpectedly touches you?
+Startled or uncomfortable
+Depends who it is
+Completely fine
+I like spontaneous contact
+images/image2.7.png
+Do you prefer soft or firm bedding?
+Very soft
+Does not matter
+A mix of both
+Firm
+images/image2.8.png
+How often do you feel "bothered" by how smth feels against your skin?
+Very often
+Sometimes
+Rarely
+Almost never
+images/image2.9.png
+Do you notice temperature changes on your skin quickly?
+Yes, very quickly
+Only when it is extreme
+Sometimes delayed
+Not really
+images/image2.10.png
+Do you prefer soft or firm bedding?
+Very soft
+Does not matter
+A mix of both
+Firm
+images/image2.11.png

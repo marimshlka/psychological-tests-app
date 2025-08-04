@@ -16,3 +16,6 @@ add_executable(coursework main.cpp)
 target_link_libraries(coursework sfml-graphics sfml-window sfml-system)
 
 file(COPY images/ DESTINATION ${CMAKE_BINARY_DIR}/images)
+file(COPY testsfiles/ DESTINATION ${CMAKE_BINARY_DIR}/testsfiles)
+file(COPY fonts/ DESTINATION ${CMAKE_BINARY_DIR}/fonts)
+file(COPY menu.txt DESTINATION ${CMAKE_BINARY_DIR}/)
