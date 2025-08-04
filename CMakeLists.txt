@@ -14,3 +14,5 @@ add_executable(coursework main.cpp)
 
 # Лінкуємо з бібліотеками SFML
 target_link_libraries(coursework sfml-graphics sfml-window sfml-system)
+
+file(COPY images/ DESTINATION ${CMAKE_BINARY_DIR}/images)
