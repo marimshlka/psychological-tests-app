@@ -1,0 +1,3 @@
+C:/Users/marim/CLionProjects/2 семестр/coursework/cmake-build-debug/CMakeFiles/coursework.dir
+C:/Users/marim/CLionProjects/2 семестр/coursework/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/marim/CLionProjects/2 семестр/coursework/cmake-build-debug/CMakeFiles/rebuild_cache.dir

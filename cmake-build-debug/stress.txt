@@ -1,0 +1,66 @@
+How often do you feel overwhelmed by your responsibilities?
+Never
+Rarely
+Sometimes
+Very often
+images/image5.1.png
+How do you usually sleep at night?
+Very well
+Well, most of the time
+Okay, but not restful
+Poorly, with frequent waking
+images/image5.2.png
+How do you physically feel when under pressure?
+I feel energized
+Fine
+A little uncomfortable
+Tense and exhausted
+images/image5.3.png
+How do you react to unexpected challenges?
+I thrive on them
+I stay calm
+I struggle but manage
+I panic or freeze
+images/image5.4.png
+How do you feel about upcoming deadlines?
+Not stressed at all
+Focused
+Mildly stressed
+Very anxious
+images/image5.5.png
+How do you handle criticism or negative feedback?
+I take it constructively
+I reflect, but it bothers me
+I do not mind at all
+It ruins my day
+images/image5.6.png
+Do you find it hard to relax after work or school?
+Not at all
+Rarely
+Sometimes
+Yes, almost always
+images/image5.7.png
+How do you manage your time?
+I manage very well
+I usually stay on track
+I try to plan but miss deadlines
+Poorly, I often procrastinate
+images/image5.8.png
+How often do you feel easily irritated?
+Almost never
+Rarely
+Sometimes
+Very often
+images/image5.9.png
+How often do you feel like you need a break but can't take one?
+Never
+Rarely
+Occasionally
+Almost every day
+images/image5.10.png
+How do you manage your time?
+I manage very well
+I usually stay on track
+I try to plan but miss deadlines
+Poorly, I often procrastinate
+images/image5.11.png

@@ -1,0 +1,10 @@
+Introversion-Extroversion Assessment;introversion.txt
+Tactile Sensitivity Test;tactile.txt
+Emotional Intelligence Quiz;emotional.txt
+Cognitive Flexibility Test;cognitive.txt
+Stress Level Indicator;stress.txt
+Personality Type Detector (Based on Jung Typology);personality.txt
+Attention Span Evaluation;attention.txt
+Empathy Quotient Test;empathy.txt
+Decision-Making Style Test;decision.txt
+Social Anxiety Self-Assessment;anxiety.txt
